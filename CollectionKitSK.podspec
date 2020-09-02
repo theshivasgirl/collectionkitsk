@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
 This CocoaPods library for all collection
                    DESC
 
-  spec.homepage     = "https://github.com/theshivasgirl/collectionkitsk"
+  spec.homepage     = "https://github.com/theshivasgirl"
 
   spec.license          = { :type => 'MIT', :file => 'LICENSE' }
 
