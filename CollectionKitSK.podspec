@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "CollectionKitSK"
 
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.1"
 
   spec.summary      = "Private collection of all registry."
 
