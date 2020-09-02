@@ -19,13 +19,13 @@ Pod::Spec.new do |spec|
 This CocoaPods library for all collection
                    DESC
 
-  spec.homepage     = "https://uif-wbench.wesp.telekom.net/gitlab/sandip.patel/collectionkit"
+  spec.homepage     = "https://github.com/theshivasgirl/collectionkitsk"
 
   spec.license          = { :type => 'MIT', :file => 'LICENSE' }
 
   spec.author             = { "sandip patel" => "sandip.patel@desifer.se" }
 
-  spec.source       = { :git => "https://uif-wbench.wesp.telekom.net/gitlab/sandip.patel/collectionkit.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/theshivasgirl/collectionkitsk.git", :tag => "#{spec.version}" }
 
   spec.source_files  = "CollectionKit/**/*.{h,m,swift}" 
 
