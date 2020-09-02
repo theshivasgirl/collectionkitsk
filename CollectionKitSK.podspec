@@ -23,7 +23,7 @@ This CocoaPods library for all collection
 
   spec.license          = { :type => 'MIT', :file => 'LICENSE' }
 
-  spec.author             = { "sandip patel" => "sandip.patel@desifer.se" }
+  spec.author             = { "theshivasgirl" => "jinalshah8899@gmail.com" }
 
   spec.source       = { :git => "https://github.com/theshivasgirl/collectionkitsk.git", :tag => "#{spec.version}" }
 
